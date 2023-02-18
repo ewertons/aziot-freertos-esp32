@@ -1,6 +1,3 @@
 [submodule "libs/azure-iot-middleware-freertos"]
 	path = libs/azure-iot-middleware-freertos
 	url = https://github.com/azure/azure-iot-middleware-freertos
-[submodule "libs/parson"]
-	path = libs/parson
-	url = https://github.com/kgabis/parson
